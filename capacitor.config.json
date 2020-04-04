@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "candk-cards",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

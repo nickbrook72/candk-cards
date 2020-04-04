@@ -1,0 +1,7 @@
+{
+  "name": "candk-cards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
